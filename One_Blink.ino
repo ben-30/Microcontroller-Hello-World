@@ -1,4 +1,4 @@
-//Aderotimi Adetunji, Benjamin Nguyen, Bryan Hess
+//Bryan Hess
 
 void setup() {
   pinMode(9, INPUT);      // sets the digital pin 9 as input
