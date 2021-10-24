@@ -1,4 +1,4 @@
-#Aderotimi_Adetunji
+#AderotimiAdetunji
 void setup() {
   pinMode(9, INPUT);       // sets the digital pin 9 as input
   pinMode(10, OUTPUT);     // sets the digital pin 10 as output
