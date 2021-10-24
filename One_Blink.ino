@@ -1,3 +1,5 @@
+//Aderotimi Adetunji, Benjamin Nguyen, Bryan Hess
+
 void setup() {
   pinMode(9, INPUT);      // sets the digital pin 9 as input
   pinMode(8, OUTPUT);     // sets the digital pin 8 as output
